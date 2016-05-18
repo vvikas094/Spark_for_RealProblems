@@ -1,0 +1,6 @@
+#output.sh
+==========
+Execute output.sh file `./output.sh`  
+> echo `hadoop fs -rm -r -f fullOutput`
+> echo `spark-submit --master yarn-client  ogramoq.py`
+> echo `hadoop fs -get fullOutput`
