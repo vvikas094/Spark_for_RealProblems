@@ -1,0 +1,3 @@
+Top tweeting User: [(u'marilyn9743', (463262, 3419))]                           
+top: [(u'Huntersweat', 416), (u'RoyalEliteKiva', 350), (u'blackxhole', 320), (u'KelleeMichele', 272), (u'pizzadellarry', 253)]
+bottom: [(u'ShakeIt4Rome', 1), (u'Im_Lil_Wanie', 1), (u'Abby_Palmiter', 1), (u'HannahGarwood', 1), (u'Oliviacouss', 1)
